@@ -16,6 +16,5 @@
 <h3>🚀 Why You'll Love This Project</h3>
 This store isn’t just about functionality; it’s about creating a shopping journey that feels intuitive, enjoyable, and efficient. From dynamic product displays to effortless cart management, everything is designed with the user in mind.
 <br><br>
-**Ready to build?** 
 
 **Let’s get coding!** 💻
