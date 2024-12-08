@@ -3,7 +3,7 @@
 **🎯 Project Vision**
 <br>
   
-Welcome to the Nike E-Commerce Store, a sleek, modern online shopping platform built to redefine your experience with Nike products. This website, powered by Next.js, ensures a fast, responsive, and user-friendly interface that caters to both sneakerheads and casual shoppers.
+<p>Welcome to the Nike E-Commerce Store, a sleek, modern online shopping platform built to redefine your experience with Nike products. This website, powered by Next.js, ensures a fast, responsive, and user-friendly interface that caters to both sneakerheads and casual shoppers./p>
   
 <h3>🔑 What Makes This Project Stand Out?</h3>
 ⚡ Built with **Next.js** 15 for unmatched speed and seamless server-side rendering.<br>
