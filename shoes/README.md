@@ -1,4 +1,4 @@
-<h1>🛒 Nike E-Commerce Store – Your One-Stop Shop for Nike Products!👟<h1/>
+<h2>🛒 Nike E-Commerce Store – Your One-Stop Shop for Nike Products!👟<h2/>
 
 <h3>🎯 Project Vision<h3/>
 Welcome to the Nike E-Commerce Store, a sleek, modern online shopping platform built to redefine your experience with Nike products. This website, powered by Next.js, ensures a fast, responsive, and user-friendly interface that caters to both sneakerheads and casual shoppers.
